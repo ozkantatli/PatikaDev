@@ -1,0 +1,1 @@
+Patika dev sitesindeki frontend web development kursu için hazırladığım örneklerdir.
